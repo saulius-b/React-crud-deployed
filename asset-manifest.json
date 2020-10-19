@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-crud-deployed/static/css/main.6b5941ef.chunk.css",
-    "main.js": "/React-crud-deployed/static/js/main.fc8c4b6f.chunk.js",
-    "main.js.map": "/React-crud-deployed/static/js/main.fc8c4b6f.chunk.js.map",
+    "main.js": "/React-crud-deployed/static/js/main.fc2a03e1.chunk.js",
+    "main.js.map": "/React-crud-deployed/static/js/main.fc2a03e1.chunk.js.map",
     "runtime-main.js": "/React-crud-deployed/static/js/runtime-main.ff82630f.js",
     "runtime-main.js.map": "/React-crud-deployed/static/js/runtime-main.ff82630f.js.map",
-    "static/js/2.992b4ede.chunk.js": "/React-crud-deployed/static/js/2.992b4ede.chunk.js",
-    "static/js/2.992b4ede.chunk.js.map": "/React-crud-deployed/static/js/2.992b4ede.chunk.js.map",
+    "static/js/2.5fa9e59c.chunk.js": "/React-crud-deployed/static/js/2.5fa9e59c.chunk.js",
+    "static/js/2.5fa9e59c.chunk.js.map": "/React-crud-deployed/static/js/2.5fa9e59c.chunk.js.map",
     "index.html": "/React-crud-deployed/index.html",
-    "precache-manifest.86e090927f7a09e50e8007fd42128327.js": "/React-crud-deployed/precache-manifest.86e090927f7a09e50e8007fd42128327.js",
+    "precache-manifest.0ba0b5d230c06a6ba5b12d5f5d0b8cb0.js": "/React-crud-deployed/precache-manifest.0ba0b5d230c06a6ba5b12d5f5d0b8cb0.js",
     "service-worker.js": "/React-crud-deployed/service-worker.js",
     "static/css/main.6b5941ef.chunk.css.map": "/React-crud-deployed/static/css/main.6b5941ef.chunk.css.map",
-    "static/js/2.992b4ede.chunk.js.LICENSE.txt": "/React-crud-deployed/static/js/2.992b4ede.chunk.js.LICENSE.txt"
+    "static/js/2.5fa9e59c.chunk.js.LICENSE.txt": "/React-crud-deployed/static/js/2.5fa9e59c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff82630f.js",
-    "static/js/2.992b4ede.chunk.js",
+    "static/js/2.5fa9e59c.chunk.js",
     "static/css/main.6b5941ef.chunk.css",
-    "static/js/main.fc8c4b6f.chunk.js"
+    "static/js/main.fc2a03e1.chunk.js"
   ]
 }
